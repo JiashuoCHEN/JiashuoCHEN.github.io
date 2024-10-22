@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electronics Science and Technology, GitHub University, 2029(expected)
+* Ph.D in Electronics Science and Technology, Westlake University, 2029(expected)
 * B.S. in Automation, Xi'an Jiaotong University, 2024
 <!--
 Work experience

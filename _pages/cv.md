@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D in Electronics Science and Technology, GitHub University, 2029(expected)
+* B.S. in Automation, Xi'an Jiaotong University, 2024
+<!--
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+ * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -31,7 +30,7 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1
@@ -62,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+  -->

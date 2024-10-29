@@ -17,12 +17,10 @@ My current research interests are centered around the intersection of AI and Phy
 
 1. **Optical Computing and Neuromorphic Photonics**:
    - Investigating the potential of optical neural networks (ONNs) to perform high-speed, low-power, and parallel computations. 🚀💡
-   - Exploring the use of photonic integrated circuits (PICs) to implement neuromorphic computing architectures that can mimic the functionality of biological neural networks. 🧠Photon
-   - Studying the integration of ONNs with traditional electronic computing systems to create hybrid platforms for enhanced computational capabilities. 💻Photon
+   - Exploring the use of photonic integrated circuits (PICs) to implement neuromorphic computing architectures that can mimic the functionality of biological neural networks. 🧠
 
 2. **Computational Optical Imaging**:
    - Developing novel computational imaging techniques that leverage the unique properties of light to achieve high-resolution and high-sensitivity imaging. 📸🔬
-   - Exploring the use of coherent and incoherent light sources, polarization, and coherence to improve the performance of optical imaging systems. 🌟🌈
    - Applying machine learning algorithms to enhance image reconstruction and processing, enabling real-time and adaptive imaging solutions. 🤖🔍
 
 3. **AI for Physics**:

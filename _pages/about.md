@@ -29,3 +29,5 @@ My current research interests are centered around the intersection of AI and Phy
    - Applying deep learning and other AI techniques to analyze and interpret complex physical phenomena, such as those in materials science, quantum mechanics, and thermodynamics. 🌌💡
 
 I am excited about the opportunity to continue my research at Westlake University and contribute to the advancement of these fields. I aim to conduct cutting-edge research that bridges the gap between theoretical developments and practical applications, ultimately leading to innovative and impactful solutions. 🚀🌟
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>

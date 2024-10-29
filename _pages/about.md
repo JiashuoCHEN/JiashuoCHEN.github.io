@@ -10,7 +10,7 @@ redirect_from:
 
 ## Personal Introduction 
 
-I am Jiashuo CHEN, currently a doctoral student in the field of electronic science and technology at [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Dr. Fanglin Bao](https://www.westlake.edu.cn/faculty/fanglin-bao.shtml). 🎓 I obtained my undergraduate degree in Automation from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). 🏫 
+I am Jiashuo CHEN, currently a doctoral student majoring in Electronic science and technology at [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Dr. Fanglin Bao](https://www.westlake.edu.cn/faculty/fanglin-bao.shtml). 🎓 I obtained my undergraduate degree in Automation from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). 🏫 
 Now, I am dedicated to advancing my skills in AI and continuously working on computational imaging. I welcome collaboration opportunities and look forward to working with researchers and industry partners. 👥🤝
 
 ## Current Research Interests

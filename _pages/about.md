@@ -10,7 +10,8 @@ redirect_from:
 
 ## Personal Introduction 
 
-I am Jiashuo CHEN, currently a doctoral student in the field of electronic science and technology at [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Dr. Fanglin Bao](https://www.westlake.edu.cn/faculty/fanglin-bao.shtml). 🎓 I obtained my undergraduate degree in Automation from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). 🏫 During my undergraduate studies, I had the opportunity to intern for two years at Pengkang Building, where I developed a strong passion for research, particularly in the areas of energy systems optimization. My current research focuses on the intersection of AI and Physics. 🤖💡 I am dedicated to advancing my skills in AI and continuously working on computational imaging. I welcome collaboration opportunities and look forward to working with researchers and industry partners. 👥🤝
+I am Jiashuo CHEN, currently a doctoral student in the field of electronic science and technology at [Westlake University](https://www.westlake.edu.cn/), under the supervision of [Dr. Fanglin Bao](https://www.westlake.edu.cn/faculty/fanglin-bao.shtml). 🎓 I obtained my undergraduate degree in Automation from [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). 🏫 
+Now, I am dedicated to advancing my skills in AI and continuously working on computational imaging. I welcome collaboration opportunities and look forward to working with researchers and industry partners. 👥🤝
 
 ## Current Research Interests
 My current research interests are centered around the intersection of AI and Physics, specifically focusing on optical computing, AI, and computational imaging. Here are the key areas I am currently exploring:
